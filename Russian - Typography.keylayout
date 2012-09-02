@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.1 on 2012-09-03 at 01:48 (GMT+04:00)-->
+<!--Last edited by Ukelele version 2.2.1 on 2012-09-03 at 01:55 (GMT+04:00)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="7" id="19779" name="Russian - Typography" maxout="3">
     <layouts>
@@ -393,7 +393,7 @@
             <key code="1" output="§"/>
             <key code="2" output="˚"/>
             <key code="3" output="£"/>
-            <key code="4" output=""/>
+            <key code="4" output="₷"/>
             <key code="5" output=""/>
             <key code="6" output=""/>
             <key code="7" output="×"/>
