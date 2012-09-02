@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.1.5 on 2011-05-21 at 16:12 (GMT+04:00)-->
+<!--Last edited by Ukelele version 2.2.1 on 2012-09-03 at 01:48 (GMT+04:00)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="0" id="2548" name="English - Typography" maxout="3">
     <layouts>
@@ -397,7 +397,7 @@
             <key code="8" output="©"/>
             <key code="9" output="↓"/>
             <key code="10" output="`"/>
-            <key code="11" output=""/>
+            <key code="11" output="ß"/>
             <key code="12" output=""/>
             <key code="13" output=""/>
             <key code="14" output="€"/>
@@ -509,7 +509,7 @@
             <key code="8" output="¢"/>
             <key code="9" action=" 2"/>
             <key code="10" action="±"/>
-            <key code="11" output=""/>
+            <key code="11" output="ẞ"/>
             <key code="12" action=""/>
             <key code="13" output=""/>
             <key code="14" output=""/>
