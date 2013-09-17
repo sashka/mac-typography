@@ -16,7 +16,7 @@ This layout is based on [Ilia Birman's typography layout](http://ilyabirman.ru/p
 Layout starts working in each app after app is restarted.
 
 
-### How to disable "U.S." layout
+### How to disable "U.S." layout (irrelevant since OS X 10.9)
 Do not try this at home.
 
 1. Open ``~/Library/Preferences/ByHost/com.apple.HIToolbox.*.plist`` with your plist editor.
